@@ -1,2 +1,2 @@
 # Kamisado_Zoonie
-Making Kamisado with chan2
+Making Kamisado with my own?
