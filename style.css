@@ -1,0 +1,30 @@
+body{
+	display: flex;
+}
+
+.gameBoard {
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.row {
+	display: flex;
+}
+
+.tile {    
+	width: 12vh;
+	height: 12vh;
+}
+
+/*
+.piece {
+	width: 6vh;
+	height: 6vh;
+	border-radius: 50%;
+	border: 2vh solid white;
+	background-color: brown;
+	margin-top: 1vh;
+	margin-left: 1vh;
+	box-shadow: 0.5vh 0.5vh 1vh black;
+}
+*/
